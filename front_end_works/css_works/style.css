@@ -1,0 +1,22 @@
+/* oro elements neyum tagname or id or classname vech select cheyyaam */
+/* tagname{
+    property:value 
+}*/
+h1{
+    color: red;
+}
+h2{
+    color:hsl(112°, 46%, 34%)
+}
+/* id aanenn parnju  kodukkaan # kodukkanam */
+/* # id selector aan */
+#htwo{
+    color: indigo;
+}
+#hthree{
+    color: lawngreen;
+}
+/* .   class selector */
+.third{
+    color: lightcoral;
+}
