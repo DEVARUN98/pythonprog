@@ -1,4 +1,4 @@
-#keys are unique,but values can be repeat,duplicates allowed,mutable,keys homogenious,value hetrogenious,nesting possible
+#keys are unique,but values can be repeat,duplicates allowed,mutable,keys homogenious,value heterogenious,nesting possible
 dic={'name':'zara' ,' age':7 ,'class':'first'}
 print(dic)
 print(type(dic))

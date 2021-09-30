@@ -1,4 +1,4 @@
-# list1=[0,1,2,2,3,3,34,5,6,78,90,80,99,88]
+-# list1=[0,1,2,2,3,3,34,5,6,78,90,80,99,88]
 # def linearsearch(list1):
 #     ele=int(input("enter element to search"))
 #     flag=0
